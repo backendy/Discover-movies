@@ -7,8 +7,8 @@
 # about author
  Ishwar Chandra Tiwari(ishwardeveloper@gmail.com)
 
-#
-![Image](3.mov)
+<!-- #
+![Image](3.mov) -->
 #
 ![Image](1.png)
 
