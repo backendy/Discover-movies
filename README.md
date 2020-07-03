@@ -7,17 +7,10 @@
 # about author
  Ishwar Chandra Tiwari(ishwardeveloper@gmail.com)
 
+#
+![Image](3.mov)
+#
+![Image](1.png)
 
-
- <img
-src='1.png'
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
- <img
-src='./2.png'
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+#
+![Image](2.png)
